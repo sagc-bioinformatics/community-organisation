@@ -1,0 +1,8 @@
+title: Adelaide Bioinformatics Workshop Hub
+description:
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+
+include:
+  - _pages
