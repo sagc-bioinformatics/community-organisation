@@ -27,4 +27,4 @@ __Welcome to the Adelaide Bioinformatics workshop programme!__
 
 <br>
 
-### [All posts...](/archive/)
+### [All posts...]({{ site.url }}/archive/)
