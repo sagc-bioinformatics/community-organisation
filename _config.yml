@@ -3,7 +3,7 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-url: 'https://sagc-bioinformatics.github.io/community-organisation/'
+url: 'https://sagc-bioinformatics.github.io/community-organisation'
 
 include:
   - _pages
