@@ -3,6 +3,7 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+baseurl: community-organisation/
 
 include:
   - _pages
